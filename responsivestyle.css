@@ -1,0 +1,30 @@
+@media screen and (max-width:578px){
+
+  section{
+    width:70%;
+    align-items: center;
+    align:center;
+  }
+
+
+  .row3{
+
+    display: block;
+    flex-wrap: wrap;
+    align-content: left;
+
+  }
+
+  .nav-item{
+    text-align: center;
+    width: 100%;
+  }
+
+}
+@media screen and (max-width:900px;){
+  section{
+    width:200%;
+    align-items: center;
+    align:center;
+  }
+}
